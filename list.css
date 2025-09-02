@@ -1,7 +1,7 @@
 /* Basic reset and font */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #b308085e;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,7 +38,7 @@ header p {
     width: 70%;
     padding: 8px;
     margin-right: 5px;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     border-radius: 4px;
 }
 
@@ -63,7 +63,7 @@ header p {
 }
 
 #taskList li {
-    background-color: #f9f9f9;
+    background-color: #b0a3a3;
     padding: 8px;
     margin-bottom: 8px;
     border-radius: 4px;
