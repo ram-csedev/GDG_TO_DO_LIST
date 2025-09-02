@@ -1,4 +1,5 @@
 // Select DOM elements
+console.log("To-Do List App Loaded");
 const taskInput = document.getElementById("taskInput");
 const addBtn = document.getElementById("addBtn");
 const taskList = document.getElementById("taskList");
