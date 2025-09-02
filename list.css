@@ -91,3 +91,6 @@ header p {
 .delete-btn:hover {
     background-color: #c0392b;
 }
+footer {
+    margin-top: 20px;
+}
